@@ -1,2 +1,2 @@
-# SAT
-SAT BOT
+# SATashkent
+SATashkent telegram bot
